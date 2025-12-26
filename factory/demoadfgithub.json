@@ -1,0 +1,9 @@
+{
+	"name": "demoadfgithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d853bb3a-8954-4e50-a22e-c610129a81c1",
+		"tenantId": "c342a160-04cc-49f5-86a7-109a1f8c25d1"
+	}
+}
